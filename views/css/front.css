@@ -1,0 +1,24 @@
+p.agpaymentmodes a {
+	padding-left: 15px;
+}
+
+.agpaymentmodes .hidden{
+	display: none;
+}
+
+.agpaymentmodes .error{
+	color: red;
+}
+
+.agpaymentmodes-error-input{
+	border: 1px solid red;
+}
+
+.agpaymentmodes textarea{
+    width: 100%;
+}
+
+.agpaymentmodes button{
+	margin-top: 10px;
+	cursor: pointer;
+}

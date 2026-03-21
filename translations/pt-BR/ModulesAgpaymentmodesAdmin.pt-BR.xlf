@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="pt-BR" datatype="plaintext" original="file.ext">
+    <body>
+      <trans-unit id="Custom payment modes">
+        <source>Custom payment modes</source>
+        <target>Formas de pagamento personalizadas</target>
+      </trans-unit>
+      <trans-unit id="Offer custom payment methods such as check, bank transfer, bank deposit, cash, and more.">
+        <source>Offer custom payment methods such as check, bank transfer, bank deposit, cash, and more.</source>
+        <target>Ofereça formas de pagamento como cheque, transferência, depósito bancário, dinheiro e outras.</target>
+      </trans-unit>
+      <trans-unit id="Select the default status">
+        <source>Select the default status</source>
+        <target>Selecione o status padrão</target>
+      </trans-unit>
+      <trans-unit id="Create new payment mode">
+        <source>Create new payment mode</source>
+        <target>Criar nova forma de pagamento</target>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <target>Nome</target>
+      </trans-unit>
+      <trans-unit id="Additional information">
+        <source>Additional information</source>
+        <target>Informações adicionais</target>
+      </trans-unit>
+      <trans-unit id="Discount">
+        <source>Discount</source>
+        <target>Desconto</target>
+      </trans-unit>
+      <trans-unit id="E.g. 10%; 3.10">
+        <source>E.g. 10%; 3.10</source>
+        <target>Ex.: 10%; 3,10</target>
+      </trans-unit>
+      <trans-unit id="Image">
+        <source>Image</source>
+        <target>Imagem</target>
+      </trans-unit>
+      <trans-unit id="Width: 86px, use landscape images">
+        <source>Width: 86px, use landscape images</source>
+        <target>Largura: 86px, use imagens horizontais</target>
+      </trans-unit>
+      <trans-unit id="Confirmation message">
+        <source>Confirmation message</source>
+        <target>Mensagem de confirmação</target>
+      </trans-unit>
+      <trans-unit id="Order value">
+        <source>Order value</source>
+        <target>Valor do pedido</target>
+      </trans-unit>
+      <trans-unit id="Order value (unformatted)">
+        <source>Order value (unformatted)</source>
+        <target>Valor do pedido (sem formatação)</target>
+      </trans-unit>
+      <trans-unit id="Enabled">
+        <source>Enabled</source>
+        <target>Ativado</target>
+      </trans-unit>
+      <trans-unit id="Yes">
+        <source>Yes</source>
+        <target>Sim</target>
+      </trans-unit>
+      <trans-unit id="No">
+        <source>No</source>
+        <target>Não</target>
+      </trans-unit>
+      <trans-unit id="Default status">
+        <source>Default status</source>
+        <target>Status padrão</target>
+      </trans-unit>
+      <trans-unit id="Ask for information">
+        <source>Ask for information</source>
+        <target>Pedir informação</target>
+      </trans-unit>
+      <trans-unit id="Information label">
+        <source>Information label</source>
+        <target>Label da informação</target>
+      </trans-unit>
+      <trans-unit id="Save">
+        <source>Save</source>
+        <target>Salvar</target>
+      </trans-unit>
+      <trans-unit id="Installments">
+        <source>Installments</source>
+        <target>Parcelamento</target>
+      </trans-unit>
+      <trans-unit id="Maximum number of installments">
+        <source>Maximum number of installments</source>
+        <target>Máximo de parcelas</target>
+      </trans-unit>
+      <trans-unit id="Minimum installment amount">
+        <source>Minimum installment amount</source>
+        <target>Valor mínimo da parcela</target>
+      </trans-unit>
+      <trans-unit id="E.g. 3.10">
+        <source>E.g. 3.10</source>
+        <target>Ex.: 3,10</target>
+      </trans-unit>
+      <trans-unit id="Carriers selection">
+        <source>Carriers selection</source>
+        <target>Seleção de transportadoras</target>
+      </trans-unit>
+      <trans-unit id="Payment modes">
+        <source>Payment modes</source>
+        <target>Formas de pagamento</target>
+      </trans-unit>
+      <trans-unit id="Add new payment mode">
+        <source>Add new payment mode</source>
+        <target>Adicionar nova forma de pagamento</target>
+      </trans-unit>
+      <trans-unit id="Label">
+        <source>Label</source>
+        <target>Rótulo</target>
+      </trans-unit>
+      <trans-unit id="Confirmation message list col">
+        <source>Confirmation message</source>
+        <target>Mensagem de confirmação</target>
+      </trans-unit>
+      <trans-unit id="Enabled col">
+        <source>Enabled</source>
+        <target>Ativa</target>
+      </trans-unit>
+      <trans-unit id="Are you sure?">
+        <source>Are you sure?</source>
+        <target>Você tem certeza?</target>
+      </trans-unit>
+      <trans-unit id="Interest per number of payments (%)">
+        <source>Interest per number of payments (%)</source>
+        <target>Juros por quantidade de pagamentos (%)</target>
+      </trans-unit>
+      <trans-unit id="Error uploading image">
+        <source>Error uploading image</source>
+        <target>Erro ao enviar a imagem</target>
+      </trans-unit>
+      <trans-unit id="Error loading the uploaded file. Is it really an image?">
+        <source>Error loading the uploaded file. Is it really an image?</source>
+        <target>Erro ao carregar o arquivo enviado. É realmente uma imagem?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="ModulesAgpaymentmodesMail" source-language="en" target-language="en" datatype="plaintext">
+    <body>
+      <trans-unit id="m_title"><source>Finish the payment of your order in {shop_name}</source><target state="translated">Finish the payment of your order in {shop_name}</target></trans-unit>
+      <trans-unit id="m_hello"><source>Hello {firstname} {lastname},</source><target state="translated">Hello {firstname} {lastname},</target></trans-unit>
+      <trans-unit id="m_waiting"><source>Your order {order_name} is awaiting your payment through {payment_mode_name}.</source><target state="translated">Your order {order_name} is awaiting your payment through {payment_mode_name}.</target></trans-unit>
+      <trans-unit id="m_instructions"><source>To conclude the payment, please follow the instructions below:</source><target state="translated">To conclude the payment, please follow the instructions below:</target></trans-unit>
+      <trans-unit id="m_history"><source>Follow your order and download your invoice on our store, go to the &lt;a href="{history_url}" target="_blank"&gt;%order_history_label%&lt;/a&gt; section of your customer account.</source><target state="translated">Follow your order and download your invoice on our store, go to the &lt;a href="{history_url}" target="_blank"&gt;%order_history_label%&lt;/a&gt; section of your customer account.</target></trans-unit>
+      <trans-unit id="m_guest"><source>If you have a guest account, you can follow your order via the &lt;a href="{guest_tracking_url}?id_order={order_name}" target="_blank"&gt;%guest_tracking_label%&lt;/a&gt; section on our shop.</source><target state="translated">If you have a guest account, you can follow your order via the &lt;a href="{guest_tracking_url}?id_order={order_name}" target="_blank"&gt;%guest_tracking_label%&lt;/a&gt; section on our shop.</target></trans-unit>
+    </body>
+  </file>
+</xliff>

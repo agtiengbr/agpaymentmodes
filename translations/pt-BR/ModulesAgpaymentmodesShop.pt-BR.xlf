@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" target-language="pt-BR" datatype="plaintext" original="file.ext">
+    <body>
+      <trans-unit id="Discount %s">
+        <source>Discount %s</source>
+        <target>Desconto %s</target>
+      </trans-unit>
+      <trans-unit id="Pay by %s">
+        <source>Pay by %s</source>
+        <target>Pagar com %s</target>
+      </trans-unit>
+      <trans-unit id="Please fill the fields below to complete your purchase.">
+        <source>Please fill the fields below to complete your purchase.</source>
+        <target>Preencha os campos abaixo para concluir a sua compra.</target>
+      </trans-unit>
+      <trans-unit id="Installments">
+        <source>Installments</source>
+        <target>Parcelamento</target>
+      </trans-unit>
+      <trans-unit id="Choose the number of installments">
+        <source>Choose the number of installments</source>
+        <target>Escolha a quantidade de parcelas</target>
+      </trans-unit>
+      <trans-unit id="Total of %s">
+        <source>Total of %s</source>
+        <target>Total de %s</target>
+      </trans-unit>
+      <trans-unit id="Back to checkout">
+        <source>Back to checkout</source>
+        <target>Voltar ao checkout</target>
+      </trans-unit>
+      <trans-unit id="Checkout">
+        <source>Checkout</source>
+        <target>Finalizar compra</target>
+      </trans-unit>
+      <trans-unit id="Payment via %s">
+        <source>Payment via %s</source>
+        <target>Pagamento via %s</target>
+      </trans-unit>
+      <trans-unit id="Order payment">
+        <source>Order payment</source>
+        <target>Pagamento do pedido</target>
+      </trans-unit>
+      <trans-unit id="You have chosen to pay via %s.">
+        <source>You have chosen to pay via %s.</source>
+        <target>Você escolheu pagar via %s.</target>
+      </trans-unit>
+      <trans-unit id="The total for your order will be %s.">
+        <source>The total for your order will be %s.</source>
+        <target>O total do seu pedido será %s.</target>
+      </trans-unit>
+      <trans-unit id="To confirm your order, fill the following information:">
+        <source>To confirm your order, fill the following information:</source>
+        <target>Para confirmar seu pedido, preencha as informações a seguir:</target>
+      </trans-unit>
+      <trans-unit id="Other payment modes">
+        <source>Other payment modes</source>
+        <target>Outras formas de pagamento</target>
+      </trans-unit>
+      <trans-unit id="Confirm your order">
+        <source>Confirm your order</source>
+        <target>Confirmar pedido</target>
+      </trans-unit>
+      <trans-unit id="This payment method is not available.">
+        <source>This payment method is not available.</source>
+        <target>Este método de pagamento não está disponível.</target>
+      </trans-unit>
+      <trans-unit id="agpaymentmodes - Error in the cart %d - additional information is empty.">
+        <source>agpaymentmodes - Error in the cart %d - additional information is empty.</source>
+        <target>agpaymentmodes - Erro no carrinho %d - informação adicional vazia.</target>
+      </trans-unit>
+      <trans-unit id="Complete the payment for your order">
+        <source>Complete the payment for your order</source>
+        <target>Conclua o pagamento do seu pedido</target>
+      </trans-unit>
+      <trans-unit id="agpaymentmodes - Error in the cart %d - payment mode %s not found or disabled.">
+        <source>agpaymentmodes - Error in the cart %d - payment mode %s not found or disabled.</source>
+        <target>agpaymentmodes - Erro no carrinho %d - forma de pagamento %s não encontrada ou desativada.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

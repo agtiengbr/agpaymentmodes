@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>agpaymentmodes</name>
+    <displayName><![CDATA[Formas de pagamento personalizadas]]></displayName>
+    <version><![CDATA[1.2.13]]></version>
+    <description><![CDATA[Ofere&ccedil;a formas de pagamento como cheque, transfer&ecirc;ncia, dep&oacute;sito banc&aacute;rio, dinheiro e outras.]]></description>
+    <author><![CDATA[AGTI]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>
