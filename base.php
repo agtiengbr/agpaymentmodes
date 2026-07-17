@@ -11,7 +11,7 @@ class BaseAgPaymentModes extends AgPaymentModule
     {
         $this->name     = 'agpaymentmodes';
         $this->tab      = 'payments_gateways';
-        $this->version  = '1.2.13';
+        $this->version  = '1.2.14';
         $this->author   = 'AGTI';
         $this->controllers = array('payment', 'validation');
 
